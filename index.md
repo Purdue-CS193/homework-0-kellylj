@@ -2,7 +2,7 @@
 -----------------------------------
 
 
-## My favosite Things about CS193
+## My favorite Things about CS193
 - Meeting People
 - The excellent Course Instructors
 - Learning about useful tools for CS
